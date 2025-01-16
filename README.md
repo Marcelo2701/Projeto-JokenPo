@@ -9,3 +9,5 @@ de um dos jogadores chega em zero.
 
 - Bloco condicional onde verifica cada possibilidade e regra do jogo para determinar um vencedor daquela partida.
 - Um bloco de repetição que repete todo o código até que um dos jogadores chegue até a sua útilma vida.
+
+  Para acessar o arquivo .java basta ir na pasta src/main.
